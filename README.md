@@ -345,7 +345,7 @@ vercel --prod
 
 <div align="center">
 
-**Made with ❤️ by Yash Goyal**
+**Made with ❤️ by Satyam Singhania**
 
 [⬆ Back to Top](#table-of-contents)
 
